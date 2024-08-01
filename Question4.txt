@@ -1,0 +1,15 @@
+Link of Dijkstra Algo Repo for analysis : https://github.com/bgcorreia/activity05_apa
+
+The repo displays a basic but solid implementation of Dijkstra Algorithm.
+There are no fancy things used but at the same time all the things are fundatmentally sound.
+
+[Line - 8]  Graph class is being created. Creating classs is always a good practice.
+
+[Line - 14] Adjacency list is begin used for storing Graph.
+
+[Line - 32:36] A basic function to add edge between two nodes.
+
+Line - 39: 105] Actual dijkstra functionality is coded.
+
+Here the person has used a visited array for keeping track of nodes which are already visisted.
+This is however redundant as the array strong the closest distance is sufficent to keep track of visited nodes.
