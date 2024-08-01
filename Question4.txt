@@ -12,4 +12,4 @@ There are no fancy things used but at the same time all the things are fundatmen
 Line - 39: 105] Actual dijkstra functionality is coded.
 
 Here the person has used a visited array for keeping track of nodes which are already visisted.
-This is however redundant as the array strong the closest distance is sufficent to keep track of visited nodes.
+This is however redundant as the array storing the closest distance is sufficent to keep track of visited nodes.
